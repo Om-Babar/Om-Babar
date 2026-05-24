@@ -41,7 +41,6 @@ const om = {
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **🔗 Frontend Development**
 
@@ -50,7 +49,6 @@ const om = {
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 **⚙️ Backend Development**
 
@@ -62,8 +60,6 @@ const om = {
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-%23000000.svg?style=for-the-badge&logo=pinecone&logoColor=white)
 
 **☁️ DevOps & Cloud**
 
@@ -85,14 +81,21 @@ const om = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ombabar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6E93F7&icon_color=6E93F7&text_color=a0a8c0&ring_color=6E93F7"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ombabar&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E93F7&text_color=a0a8c0"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ombabar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6E93F7&icon_color=6E93F7&text_color=a0a8c0&ring_color=6E93F7&cache_seconds=1800"/>
+&nbsp;&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ombabar&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E93F7&text_color=a0a8c0&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
 <img width="70%" src="https://streak-stats.demolab.com?user=ombabar&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=6E93F7&ring=6E93F7&fire=FF6B6B&currStreakNum=ffffff&sideNums=a0a8c0&currStreakLabel=6E93F7&sideLabels=6E93F7&dates=4a5568"/>
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ombabar&bg_color=0d1117&color=6E93F7&line=6E93F7&point=ffffff&area=true&hide_border=true)
 
 </div>
 
