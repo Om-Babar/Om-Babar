@@ -43,7 +43,6 @@ const om = {
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **🔗 Frontend Development**
 
@@ -52,7 +51,6 @@ const om = {
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 **⚙️ Backend Development**
 
@@ -64,8 +62,6 @@ const om = {
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-%23000000.svg?style=for-the-badge&logo=pinecone&logoColor=white)
 
 **☁️ DevOps & Cloud**
 
@@ -87,19 +83,24 @@ const om = {
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Om-Babar&theme=tokyonight"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Om-Babar&theme=tokyonight" width="380" alt="Stats"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Om-Babar&theme=tokyonight" width="380" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Om-Babar&theme=tokyonight"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Om-Babar&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=6E93F7&ring=6E93F7&fire=FF6B6B&currStreakNum=ffffff&sideNums=a0a8c0&currStreakLabel=6E93F7&sideLabels=6E93F7&dates=4a5568"/>
 
-<br/>
+<br/><br/>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=Om-Babar&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=6E93F7&ring=6E93F7&fire=FF6B6B&currStreakNum=ffffff&sideNums=a0a8c0&currStreakLabel=6E93F7&sideLabels=6E93F7&dates=4a5568"/>
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Babar&bg_color=0d1117&color=6E93F7&line=6E93F7&point=ffffff&area=true&hide_border=true"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Babar&bg_color=0d1117&color=6E93F7&line=6E93F7&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
@@ -141,3 +142,5 @@ const om = {
 ![Profile Views](https://komarev.com/ghpvc/?username=Om-Babar&color=6E93F7&style=flat-square&label=Profile+Views)
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
