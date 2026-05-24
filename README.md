@@ -99,9 +99,9 @@ const om = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ombabar)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ombabar)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ombabar@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%236E93F7.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://ombabar.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Om-Babar)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:babarom9819@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%236E93F7.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://om-babar-portfolio.vercel.app/)
 
 </div>
 
